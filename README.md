@@ -8,12 +8,31 @@ A simple calculator built using Python's Tkinter library. This GUI-based calcula
 
 ## 📸 Preview
 
-![Tkinter Calculator Preview](preview.png) <!-- Replace with your actual image or remove this line if not applicable -->
+![Tkinter Calculator Preview](calculator.png) <!-- Replace with your actual image or remove this line if not applicable -->
 
 ---
 
 ## 🛠 Features
+- 🧠 Basic arithmetic operations: `+`, `-`, `*`, `/`
+- 🔢 Numeric buttons (0-9)
+- 🧮 Decimal support with `.`
+- ↩️ Backspace functionality (`⌫`)
+- ♻️ Clear all inputs (`Clear`)
+- 📟 Dynamic result display
+- 🖥️ Responsive and clean GUI with `Tkinter`
 
-- 🧠 Basic arithmetic operations: `+`, `-`,
-# Calculator_website
-⌢䌠污畣慬潴彲敷獢瑩≥ഠ⌊挠污畣慬潴⵲彟敷獢瑩੥
+---
+
+## 🚀 Getting Started
+
+### 📦 Requirements
+
+- Python 3.x
+
+### 🧑‍💻 How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/dsaimani/calculator-__website.git
+   cd calculator-__website
+
